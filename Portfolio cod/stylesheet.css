@@ -1,0 +1,708 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: black;
+    
+}
+/*
+font-family: 'Bowlby One', cursive;
+
+*/
+@media only screen and (min-width: 985px) and (max-width: 1400px){
+    .home h1 {
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 180px;
+    }
+    .kontakt h7 {
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 100px;
+
+    }
+    .home .ime{
+        
+        font-family: 'Bowlby One', cursive;
+        font-size: 45px;
+        color:#CD3F57 ;
+   }
+   .o-meni p {
+        
+    font-size: 35px;
+    font-family:'Inter', sans-serif;
+
+}
+.o-meni h2{
+    font-weight: 300;
+font-family: 'Bowlby One', cursive;
+font-size: 60px;
+color: black;
+
+}
+.izdvojeni-radovi h2{
+    font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 75px;
+    color: black;
+
+}
+.open h3{
+    font-size: 85px;
+    font-family:'Inter', sans-serif;
+    color: white;
+    font-weight: 700;
+
+}
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 985px){
+    .home h1 {
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 100px;
+    }
+    .kontakt h7 {
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 70px;
+
+    }
+    .home .ime{
+        
+        font-family: 'Bowlby One', cursive;
+        font-size: 30px;
+        color:#CD3F57 ;
+   }
+   .o-meni p {
+        
+    font-size: 25px;
+    font-family:'Inter', sans-serif;
+
+}
+.o-meni h2{
+    font-weight: 300;
+font-family: 'Bowlby One', cursive;
+font-size: 40px;
+color: black;
+
+}
+.izdvojeni-radovi h2{
+    font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 55px;
+    color: black;
+
+}
+.open h3{
+    font-size: 65px;
+    font-family:'Inter', sans-serif;
+    color: white;
+    font-weight: 700;
+
+}
+
+.kontakt h2{
+    font-weight: 300;
+font-family: 'Bowlby One', cursive;
+font-size: 55px;
+color: black;
+
+}
+.kontakt h10{
+    font-family: 'Montserrat', sans-serif ;
+font-weight: 700 ;
+font-size: 30px;
+
+}
+.kontakt h11{
+    font-family: 'Montserrat', sans-serif ;
+font-weight: 500 ;
+font-size: 20px;
+
+    
+}
+
+}
+
+   @media screen and (max-width: 480px) {
+    /* CSS pravila za uske zaslone */
+    .home h1 {
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 70px;
+    }
+    .home .ime{
+        
+            font-family: 'Bowlby One', cursive;
+            font-size: 20px;
+            color:#CD3F57 ;
+        
+
+    }
+    .home h2{
+        font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 45px;
+    color: black;
+
+
+    }
+    .kontakt h7 {
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 50px;
+
+    }
+    .kontakt p {
+        
+            font-size: 20px;
+            font-family:'Inter', sans-serif;
+        
+        
+
+    }
+    .open h3{
+        font-size: 55px;
+        font-family:'Inter', sans-serif;
+        color: white;
+        font-weight: 700;
+
+    }
+    .izdvojeni-radovi h2{
+        font-weight: 300;
+        font-family: 'Bowlby One', cursive;
+        font-size: 50px;
+        color: black;
+
+    }
+    .o-meni h2{
+        font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 45px;
+    color: black;
+
+    }
+    .o-meni p {
+        
+            font-size: 20px;
+            font-family:'Inter', sans-serif;
+      
+    }
+    .o-meni a {                                 /* nešto neće*/
+        font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 12px;
+    color: black;
+    }
+    .o-meni h6{
+        font-family: 'Montserrat', sans-serif ; /* nešto neće*/
+    font-weight: 500 !important;
+    color: black !important;
+    font-size: 20px !important;
+
+    }
+
+    .kontakt h2{
+        font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 45px;
+    color: black;
+
+    }
+    .kontakt h10{
+        font-family: 'Montserrat', sans-serif ;
+    font-weight: 700 ;
+    font-size: 20px;
+
+    }
+    .kontakt h11{
+        font-family: 'Montserrat', sans-serif ;
+    font-weight: 500 ;
+    font-size: 15px;
+
+        
+    }
+  }
+
+h1 {
+    font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 255px;
+}
+h2{
+    font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 75px;
+    color: black;
+}
+
+.home li a:hover,
+.navigacija ul a:hover,
+.fa-chevron-down:hover,
+.fa-bars:hover,
+.fa-xmark:hover {
+    color: #2ECC71 !important;
+}
+
+b {
+    font-weight: 500;
+}
+
+.slide {
+   
+    padding-bottom: 2rem;
+}
+
+/* Slide Home */
+.nav{
+    background-color: #262525;
+    color: white;
+}
+.home {
+    min-height: 100%;
+    background-color: #FCF3EB;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.home a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.home .content {
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+.fa-chevron-down {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.ime{
+    font-family: 'Bowlby One', cursive;
+    font-size: 43px;
+    color:#CD3F57 ;
+}
+
+h4{
+    color: black !important;
+    font-family:'Inter', sans-serif;
+    font-weight: 500;
+} 
+
+h3{
+
+    font-size: 102px;
+    font-family:'Inter', sans-serif;
+    color: white;
+    font-weight: 700;
+}
+.open{
+background-color: #262525;
+}
+
+
+/*slajd navigacija*/
+
+.open {
+    min-height: 100%;
+    background-color: #262525;
+    color: white;
+}
+.open ul {
+    padding: 0;
+    margin: 0;
+}
+
+
+.open li a {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.open li {
+    list-style: none;
+    text-align: center;
+}
+
+.open ul {
+    padding: 0;
+    margin: 0;
+}
+
+.open li a {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.open li {
+    list-style: none;
+    text-align: center;
+}
+
+.open ul {
+    padding: 0;
+    margin: 0;
+}
+.open ol li  {
+
+    display: inline-block;
+    
+}
+
+
+
+/* slajd o meni*/
+.o-meni {
+    min-height: 100%;
+    background-color: #FCF3EB;  
+    color: black;
+    margin: left 300px; ;
+    margin: right 300px;
+}
+p{
+    font-size: 36px;
+    font-family:'Inter', sans-serif;
+
+}
+.fa-arrow-right-long{
+    font-size: 2rem;
+    color: black;
+}
+
+a {
+    
+    color: black;
+}
+.o-meni li{
+    display: inline-block;
+}
+
+/*izdvojeni radovi*/
+#slika {
+    opacity: 0.7;  /* 20% transparencije */
+  }
+
+.izdvojeni-radovi {
+    min-height: 100%;
+    background-color: #FCF3EB;
+}
+
+.fa-bars {
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.grid-v-space {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.izdvojeni-radovi li{
+    display: inline-block;
+}
+
+/*slajd kontakt*/
+
+.kontakt {
+    min-height: 100%;
+    background-color: #FCF3EB;
+    color: black;
+}
+
+h7{
+    font-weight: 300;
+    font-family: 'Bowlby One', cursive;
+    font-size: 120px;
+    color: black;
+    display: inline;
+}
+.kontakt ol{
+    background-color: #FCF3EB;
+    color: black;
+    
+}
+.kontakt li{
+    display: inline-block;
+
+}
+.kontakt i .fa-brands{
+    
+    height: 50px;
+}
+
+.kontakt a .fa-brands:hover, .kontakt a .fa-brands:active, .kontakt a .regular:active {
+    
+    color: #CD3F57;
+}
+.kontakt i{
+    padding-left: 20px;
+    text-align: center;
+}
+.open i{
+    padding-left: 20px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+h6{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400 !important;
+    color: black !important;
+    font-size: 32px !important;
+}
+
+
+/*
+font-family: 'Montserrat', sans-serif;
+*/
+.o-meni ol{
+    background-color: #FCF3EB;
+    color: black;
+    
+}
+.o-meni li{
+    display: inline-block;
+
+}
+.o-meni i .fa-brands{
+    
+    height: 50px;
+}
+.o-meni i{
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+.radovi {
+    min-height: 100%;
+    background-color: #FCF3EB;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.radovi ol{
+    background-color: #FCF3EB;
+    color: black;
+    
+}
+.radovi li{
+    display: inline-block;
+
+}
+.radovi i .fa-brands{
+    
+    height: 50px;
+}
+.radovi i{
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+.media {
+    
+    background-color: #FCF3EB;
+    color: black;
+}
+
+.media ol{
+    background-color: #FCF3EB;
+    color: black;
+    
+}
+.media li{
+    display: inline-block;
+
+}
+.media i .fa-brands{
+    
+    height: 50px;
+}
+.media i{
+    padding-left: 20px;
+    text-align: center;
+}
+
+h8{
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 600 ;
+    color: black ;
+    font-size: 25px ;
+
+}
+.radovi a {
+    text-decoration: none;
+}
+.radovi h8:hover, .radovi h8:active {
+    
+    color: #CD3F57 ;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif ;
+}
+
+.open h3:hover, .open h3:active{
+    color: #CD3F57;
+    ;
+}
+
+.home h4:hover, .home h4:active{
+    color: #CD3F57;
+}
+
+.o-meni h2:hover, .o-meni h2:active{
+    color: #CD3F57;
+}
+.o-meni li a{
+    text-decoration: none;
+}
+.o-meni li i:hover, .o-meni li i:active{
+    color: #CD3F57;
+}
+.izdvojeni-radovi h2:hover, .izdvojeni-radovi h2:active{
+    color: #CD3F57;
+}
+.izdvojeni-radovi li a{
+    text-decoration: none;
+}
+.kontakt h7:hover, .kontakt h7:active{
+    color: #CD3F57;
+}
+.kontakt a{
+    text-decoration: none;
+}
+
+@keyframes jumping {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+  100% { transform: translateY(0); }
+}
+.home .jumping {
+  animation: jumping 1s ease-in-out infinite;
+}
+
+/* ne radi mi donji kod*/
+@keyframes moving {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(100px); }
+}
+.kontakt .moving {
+  animation: moving 2s linear infinite;
+}
+
+.o-meni p{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400 !important;
+    color: black !important;
+    
+
+}
+.contact .ime .mail .poruka{
+    color: white;
+}
+
+h9{
+    color: white;
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 700 ;
+    font-size: 20px;
+    
+}
+h10{
+
+
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 700 ;
+    font-size: 30px;
+}
+h11{
+
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 500 ;
+    font-size: 25px;
+
+}
+
+.kontakt  li a .fa-brands:hover{
+
+    color: #CD3F57;
+    transform: scale(1.3);
+
+}
+
+.media  li a .fa-brands:hover{
+    
+    color: #CD3F57;
+    transform: scale(1.3);
+
+}
+.o-meni  li a .fa-brands:hover{
+    
+    color: #CD3F57;
+    transform: scale(1.3);
+
+}
+.open  li a .fa-brands:hover{
+    
+    color: #CD3F57;
+    transform: scale(1.3);
+
+}
+.o-meni  li a .fa-brands:hover{
+    
+    color: #CD3F57;
+    transform: scale(1.3);
+
+}
+
+
+
+#slika {
+  opacity: 0.7;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  
+}
+
+
+
+#container:hover #slika {
+  opacity: 0.3;
+  
+}
+
+
+
+
+
+
+
+
